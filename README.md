@@ -1,5 +1,5 @@
 # AI4DL class
-### Author: Moon Juil
+### Author: Juil Moon
 
 > LOL
 
