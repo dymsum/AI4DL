@@ -1,7 +1,7 @@
 # AI4DL class
 ### Author: Moon Juil
 
-> Hi my name is **Juil Moon** so call me Juil.
+> LOL
 
 ## Folders
 - week[1-16]: Excercise notebooks
